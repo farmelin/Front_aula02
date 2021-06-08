@@ -1,0 +1,33 @@
+Para quebra a linha utilizar as teclas Alt+z ou verificar no menu a funcionalidade "word wrap text"
+
+ícone = <i class="fas fa-space-shuttle"></i>
+
+
+Pós intervalo HEADER
+font awesome
+icones ==> fonts
+redes sociais
+não é imagem
+código == carregar mais rápido
+https://fontawesome.com/icons/rocket?style=solid
+<i class="fas fa-rocket"></i>
+procurar o icone
+copiar o código
+colar no html == não vai aparecer precisa de um sevidor qure reconheça as classes que foram
+inseridas no código
+CDN font awesome
+
+
+
+text-decoration: none; ==> sem sublinhado
+
+
+
+Flexbox --> alinhamento dos containers
+horizontal e/ou vertical
+container em um elemento flex container
+regra principal ==> o elemento pai deve ser o
+flex container = os seus filhos ficarão um ao lado do outro ==PADRAO
+display: flex;
+flex-direction: row;
+align-items alinhamento vertical
